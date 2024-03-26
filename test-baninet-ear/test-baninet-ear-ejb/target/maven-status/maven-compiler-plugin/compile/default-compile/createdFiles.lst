@@ -1,0 +1,14 @@
+ec\com\oncedev\model\Transaccion.class
+ec\com\oncedev\data\MemberRepository.class
+ec\com\oncedev\service\MemberRegistration.class
+ec\com\oncedev\model\OrderTransacccion.class
+ec\com\oncedev\model\Cliente.class
+ec\com\oncedev\service\OrdenTransaccionService.class
+ec\com\oncedev\util\Resources.class
+ec\com\oncedev\util\Utilidades.class
+ec\com\oncedev\service\LeerArchivoCSV.class
+ec\com\oncedev\service\ClienteService.class
+ec\com\oncedev\data\schedule\TareaProgramada.class
+ec\com\oncedev\data\MemberListProducer.class
+ec\com\oncedev\model\Movimiento.class
+ec\com\oncedev\model\Member.class

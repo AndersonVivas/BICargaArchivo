@@ -1,0 +1,4 @@
+ec\com\oncedev\rest\ClienteResourceREST.class
+ec\com\oncedev\rest\MemberResourceRESTService.class
+ec\com\oncedev\rest\RestAppConfig.class
+ec\com\oncedev\rest\OrdenTransaccionResourceREST.class
